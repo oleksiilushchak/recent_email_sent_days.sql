@@ -1,0 +1,1 @@
+# recent_email_sent_days.sql
